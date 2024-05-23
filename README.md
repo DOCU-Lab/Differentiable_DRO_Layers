@@ -10,7 +10,7 @@ Except for commonly used packages like torch and numpy, other important packages
 - cvxpy
 - gurobipy
   
-Moreover, make sure that [Gurobi](https://www.gurobi.com/) solver can be called in Python environment. This [tutorior](https://support.gurobi.com/hc/en-us/articles/360044290292-How-do-I-install-Gurobi-for-Python) may be helpful for building Gurobi in Python.
+Moreover, make sure that [Gurobi](https://www.gurobi.com/) solver can be called in Python environment. This [tutorial](https://support.gurobi.com/hc/en-us/articles/360044290292-How-do-I-install-Gurobi-for-Python) may be helpful for building Gurobi in Python.
 
 ## Usage
 
