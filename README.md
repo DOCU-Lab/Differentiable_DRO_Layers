@@ -4,7 +4,7 @@ This repository contains the source code to reproduce the experiments of our pap
 
 ## Dependency
 
-Except for commonly used packages like torch and numpy, other packages our code is built on are listed as follows.
+Except for commonly used packages like torch and numpy, other important packages our code is built on are listed as follows.
 
 - cvxpylayers
 - cvxpy
